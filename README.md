@@ -86,3 +86,9 @@ If you prefer using **Visual Studio Code (VS Code)**, follow these additional st
 1. **Install VS Code:** Download and install VS Code from the [official website](https://code.visualstudio.com/).
 2. **Install the Python Extension:** Open VS Code and install the official **Python Extension** developed by Microsoft. This extension provides features like IntelliSense, debugging, and code formatting.
 3. **Run Code:** Open a Python file (`.py`) in VS Code and click the **Run** button (a small triangle icon) in the top right corner, or use the shortcut `Ctrl + F5` to execute the script in the integrated terminal.
+
+---
+
+## Dicussions
+
+Visit the [Discussions page](https://github.com/3riy/Python-Basics/discussions) to share any comments or remarks you may have regarding this repo!
