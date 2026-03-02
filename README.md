@@ -21,7 +21,7 @@ Python's simplicity and massive library ecosystem make it the go-to language for
 
 ## 📁 Sub-topics
 
-### 🛠️ Foundations & Basic Syntax
+### 🛠️ Core Foundations
 * [Keywords and Identifiers](https://github.com/3riy/Python/tree/main/Keywords%20and%20Identifiers)
 * [Strings](https://github.com/3riy/Python/tree/main/Strings)
 
