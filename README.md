@@ -19,7 +19,7 @@ Python's simplicity and massive library ecosystem make it the go-to language for
 
 ---
 
-## 📁 Sub-folders
+## 📁 Sub-topics
 
 * [Dictionaries](https://github.com/3riy/Python/tree/main/Dictionaries)
 * [For Loop](https://github.com/3riy/Python/tree/main/For%20Loop)
