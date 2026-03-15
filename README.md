@@ -1,7 +1,6 @@
+# Python
+
 ## 🐍 Overview
-
-<img width="1584" height="396" alt="Python Basics" src="https://github.com/user-attachments/assets/0ba96e6d-5d20-4200-874f-095183d2ab68">
-
 
 **Python** is a **powerful, versatile**, high-level, interpreted, object-oriented programming language, **driving innovation** across data science, web development, and automation. Valued for its **clean syntax and rapid development cycle**, Python is the go-to language for readability and efficiency across almost every domain.
 
